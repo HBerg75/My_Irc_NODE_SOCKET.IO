@@ -1,0 +1,27 @@
+{
+  "name": "readlinechatexample",
+  "version": "1.0.0",
+  "description": "CLI chat with readline and socket.io",
+  "author": "merguez",
+  "dependencies": {
+    "ansi-color": "latest",
+    "ansi-colors": "^4.1.1",
+    "socket.io": "latest",
+    "socket.io-client": "^4.1.2"
+  },
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "irc.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechIT2020/W-JSC-502-PAR-2-2-irc-yanis.benhagouga.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechIT2020/W-JSC-502-PAR-2-2-irc-yanis.benhagouga/issues"
+  },
+  "homepage": "https://github.com/EpitechIT2020/W-JSC-502-PAR-2-2-irc-yanis.benhagouga#readme"
+}
